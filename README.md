@@ -1,5 +1,3 @@
-# 💫 wz0nx:
-
 ## 👋🏻 Yo, I'm Ayushman AKA **EI** or **r4qc0**
 
 ### About Me  
