@@ -15,7 +15,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
 
 ### Current Projects  
-- [Duskwave](https://duskwave.vercel.app) **an AI chat web**
+- Dusk Os a Linux distributions
 
 ### ERM a quote  
 `Half bugs, half genius. 100% errors.`
