@@ -15,7 +15,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
 
 ### Current Projects  
-- Dusk Os a Linux distributions
+- Dusk Os a Linux distro
 
 ### ERM a quote  
 `Half bugs, half genius. 100% errors.`
